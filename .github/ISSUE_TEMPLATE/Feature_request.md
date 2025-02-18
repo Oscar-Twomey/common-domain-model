@@ -4,7 +4,24 @@ about: I have a suggested enhancement to the CDM
 labels:
 assignees:
 title: Proposed change to the CDM
+type: Feature
 ---
+
+## Background ##
+
+_Please provide the business context of the Issue i.e. what is required and why_
+
+## Proposal ##
+
+_Please put details of the proposed changes in here_
+_Splitting the changes into sections will improve comprehension of the proposal_
+_Use graphics where possible e.g. before/after pictures of the model enhancements_
+
+## Compatibility ##
+
+_If known, please describe any compatibility issues that this change may have_
+_with existing versions. Please review the list of backwardly incompatible_
+_changes and in the design principles for assistance._
 
 > [!NOTE]
 > Any Issue must:
@@ -27,22 +44,4 @@ title: Proposed change to the CDM
 > The more evidence that you can provide of prior approval for the proposed change from a 
 > CDM Working Group the better. This will assist the CDM maintainers and participants
 > when reviewing the proposal.
-
-## Background ##
-
-_Please provide the business context of the Issue i.e. what is required and why_
-
-## Proposal ##
-
-_Please put details of the proposed changes in here_
-_Splitting the changes into sections will improve comprehension of the proposal_
-_Use graphics where possible e.g. before/after pictures of the model enhancements_
-
-## Compatibility ##
-
-_If known, please describe any compatibility issues that this change may have_
-_with existing versions. Please review the list of backwardly incompatible_
-_changes and in the design principles for assistance._
-
-
 
